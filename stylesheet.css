@@ -101,5 +101,5 @@ a:hover { color: white; background: #990000; }
 p {
   font-family: "impact", Charcoal, sans-serif;
   font-size: 20px;
-  
+  align-content: center;
 }
