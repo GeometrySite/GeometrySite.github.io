@@ -1,4 +1,4 @@
- ul {
+ul {
       list-style-type: none;
    font-family: "Arial Black", Gadget, sans-serif;
     font-size: 16px;
@@ -97,3 +97,9 @@ a:hover { color: white; background: #990000; }
               
               .navleft {float:left; width: 50%;} .navright {float:right; width: 50%;} .tabs-inner .widget ul {margin-right: 0px; margin-left: 0px;}
 .CLASSNAME {background: #b30000;}
+
+p {
+  font-family: "impact", Charcoal, sans-serif;
+  font-size: 20px;
+  
+}
