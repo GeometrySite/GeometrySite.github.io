@@ -9,7 +9,7 @@
     background-color: #b30000;
 }
 li {
-    float: left;
+    float: right;
 }
 li a {
     display: block;
