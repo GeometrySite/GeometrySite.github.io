@@ -30,7 +30,7 @@ li a {
 a:hover { color: white; background: #990000; }
   
   body{
-    background: url("https://upload.wikimedia.org/wikipedia/commons/a/ac/Bamboo_cutting_board_surface_texture_2014_02.jpg") no-repeat top center fixed;
+    background-color: #bfbfbf;
     background-size: cover;
     margin:  0;
     padding: 0;
