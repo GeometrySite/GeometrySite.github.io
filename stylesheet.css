@@ -100,6 +100,11 @@ a:hover { color: white; background: #990000; }
 
 p {
   font-family: "impact", Charcoal, sans-serif;
-  font-size: 17px;
+  font-size: 15px;
   align-content: center;
+}
+
+h2 {
+  font-family: "impact ", Charcoal, sans-serif;
+  font-size: 68px;
 }
